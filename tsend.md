@@ -111,11 +111,14 @@ profession
 > roistat_visit=val
 
 ## before_note
->before_note=текст до начала основного примечания
+> before_note=текст до начала основного примечания
 
 ## after_note
->after_note=текст после основного примечания
+> after_note=текст после основного примечания
 
 ## override_note
->override_note=текст который заменит основное примечание
->отменяет before_note и after_note
+> override_note=текст который заменит основное примечание
+> отменяет before_note и after_note
+
+## add_note
+> add_note=текст дополнительного примечания
