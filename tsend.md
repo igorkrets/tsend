@@ -109,3 +109,13 @@ profession
 > _uc_utm_term=val
 > partner_id=val
 > roistat_visit=val
+
+## before_note
+>before_note=текст до начала основного примечания
+
+## after_note
+>after_note=текст после основного примечания
+
+## override_note
+>override_note=текст который заменит основное примечание
+>отменяет before_note и after_note
